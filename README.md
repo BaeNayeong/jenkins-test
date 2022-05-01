@@ -1,9 +1,8 @@
 # Lecture
 
-## Website
+## 출처
+https://www.youtube.com/watch?v=GOLHN3FHjpI&t=1295s
 
-```sh
-```
 
 ## Server
 
